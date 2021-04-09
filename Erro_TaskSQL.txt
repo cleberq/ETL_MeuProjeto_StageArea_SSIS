@@ -1,0 +1,10 @@
+TITLE: Connection Manager
+------------------------------
+
+Test connection failed because of an error in initializing provider. Attempt to load Oracle client libraries threw BadImageFormatException.  This problem will occur when running in 64 bit mode with the 32 bit Oracle client components installed.
+
+------------------------------
+BUTTONS:
+
+OK
+------------------------------

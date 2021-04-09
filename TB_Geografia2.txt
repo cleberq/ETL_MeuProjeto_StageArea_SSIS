@@ -1,0 +1,14 @@
+ID_Geografia;Continente;Pais
+275;Asia;Japão
+306;Asia;Japão
+310;Asia;Japão
+313;Asia;Japão
+314;Asia;Japão
+326;Asia;Japão
+719;Asia;Japão
+720;Asia;Japão
+722;Asia;Japão
+724;Asia;Japão
+725;Asia;Japão
+732;Asia;Japão
+735;Asia;Japão
